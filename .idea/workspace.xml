@@ -7,11 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a87f15-ebe7-4efa-9a2d-4687bf4fae01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_rest_demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_rest_demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-rest-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rest-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/springdemo/rest/StudentRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/springdemo/rest/StudentRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/classes/com/luv2code/springdemo/rest/StudentRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/classes/com/luv2code/springdemo/rest/StudentRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-rest-demo/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-rest-demo/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +54,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1gJq96qiu5iX8q2BZvaLq86VaIy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -152,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597842889000</updated>
-      <workItem from="1597842896124" duration="3273000" />
+      <workItem from="1597842896124" duration="5411000" />
     </task>
     <servers />
   </component>
